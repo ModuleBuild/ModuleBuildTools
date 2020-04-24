@@ -1,6 +1,6 @@
 ﻿---
 Module Name: ModuleBuildTools
-Module Guid: c2185022-951d-4b98-9807-61cdf34fd489 c2185022-951d-4b98-9807-61cdf34fd489
+Module Guid: c2185022-951d-4b98-9807-61cdf34fd489
 Download Help Link: https://github.com/ModuleBuild/ModuleBuildTools/release/ModuleBuildTools/docs/ModuleBuildTools.md
 Help Version: 0.0.2
 Locale: en-US
