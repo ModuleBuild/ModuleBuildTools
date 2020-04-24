@@ -36,6 +36,8 @@ This module is tested with the PowerShell testing framework Pester. To run all t
 
 ## Other Information
 
-**Author:** Justin Perdok
+**Authors:**
+- [Justin Perdok](https://github.com/justin-p)
+- [Zachary Loeber](https://www.the-little-things.net)
 
 **Website:** https://github.com/ModuleBuild/ModuleBuildTools
