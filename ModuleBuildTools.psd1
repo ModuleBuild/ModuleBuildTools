@@ -12,7 +12,7 @@
 RootModule = 'ModuleBuildTools.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.1'
+ModuleVersion = '0.0.2'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -75,7 +75,7 @@ FunctionsToExport = '*'
 CmdletsToExport = '*'
 
 # Variables to export from this module
-VariablesToExport = @()
+# VariablesToExport = @()
 
 # Aliases to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no aliases to export.
 AliasesToExport = @()
@@ -95,7 +95,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'scaffold', 'Module', 'Invoke-Build', 'ModuleBuild'
+        Tags = 'scaffold','Module','Invoke-Build','ModuleBuild'
 
         # A URL to the license for this module.
         LicenseUri = 'https://github.com/ModuleBuild/ModuleBuildTools/raw/master/LICENSE.md'
@@ -107,11 +107,20 @@ PrivateData = @{
         IconUri = 'https://github.com/ModuleBuild/ModuleBuildTools/raw/master/src/other/powershell-project.png'
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = '0.0.2 release'
+
+        # Prerelease string of this module
+        # Prerelease = ''
+
+        # Flag to indicate whether the module requires explicit user acceptance for install/update/save
+        # RequireLicenseAcceptance = $false
+
+        # External dependent modules of this module
+        # ExternalModuleDependencies = @()
 
     } # End of PSData hashtable
 
-} # End of PrivateData hashtable
+ } # End of PrivateData hashtable
 
 # HelpInfo URI of this module
 # HelpInfoURI = ''
@@ -120,5 +129,4 @@ PrivateData = @{
 # DefaultCommandPrefix = ''
 
 }
-
 
