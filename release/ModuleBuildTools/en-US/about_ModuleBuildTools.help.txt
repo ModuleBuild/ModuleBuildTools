@@ -1,0 +1,17 @@
+TOPIC
+    about_ModuleBuildTools
+
+SHORT DESCRIPTION
+    Build tools for the ModuleBuild Project
+
+LONG DESCRIPTION
+    This project contains the build tools for the main ModuleBuild Project.
+
+EXAMPLES
+    See the ModuleBuild Project or projects build with ModuleBuild.
+
+KEYWORDS
+    scaffold, Module, Invoke-Build, ModuleBuild
+
+SEE ALSO
+    https://github.com/ModuleBuild/ModuleBuildTools
